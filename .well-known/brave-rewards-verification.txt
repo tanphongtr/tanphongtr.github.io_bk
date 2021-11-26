@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: phongtran.dev
+Token: 531db9aa5c5767f29203ff07f181718347cd814b904341f5e8830e51ad292fff
